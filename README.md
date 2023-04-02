@@ -1,16 +1,22 @@
-### Hi there 👋
+# Olá, eu sou a Isabele! 👩‍💻
 
-<!--
-**IsabeleRenovat0/IsabeleRenovat0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ✨Sobre mim✨
+Estudante de Sistemas de Informações, sou apaixonada por tecnologia e gestão, e estou sempre buscando aprender e aprimorar minhas habilidades.
 
-Here are some ideas to get you started:
+## 💻 Habilidades
+Entre as minhas principais habilidades estão:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- JavaScript
+- C#
+- PHP
+- HTML
+- MySQL
+
+
+## 📩 Contato
+Se você quiser entrar em contato comigo, pode me encontrar pelo:
+
+- E-mail: isabelerenovato@hotmail.com
+- LinkedIn: https://www.linkedin.com/in/isabele-renovato-330707203/
+
+Obrigada por visitar o meu perfil no Github! 🙋🏻‍♀️
