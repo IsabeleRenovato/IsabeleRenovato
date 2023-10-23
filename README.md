@@ -10,6 +10,7 @@ Entre as minhas principais habilidades estão:
 - C#
 - PHP
 - HTML
+- CSS
 - MySQL
 
 
