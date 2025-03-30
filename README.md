@@ -39,12 +39,12 @@ Quero contribuir para o desenvolvimento da indústria tecnológica aplicando meu
 ## 📊 **Minhas estatísticas no GitHub**  
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?IsabeleRenovato&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?IsabeleRenovato&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=IsabeleRenovato&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=IsabeleRenovato&theme=radical" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?IsabeleRenovato&layout=compact&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsabeleRenovato&layout=compact&theme=radical" />
 </p>
 
 ---
