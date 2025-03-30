@@ -49,7 +49,7 @@ Quero contribuir para o desenvolvimento da indústria tecnológica aplicando meu
   <a href="https://www.linkedin.com/in/isabele-renovato-330707203/">
     <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8" alt="LinkedIn">
   </a>
-  <a href="mailto:isabelerenovato.com">
+  <a href="mailto:isabelerenovato@hotmail.com">
     <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=red" alt="Email">
   </a>
   <a href="https://api.whatsapp.com/send?phone=5519996383370&text=Olá,%20Isabele!">
