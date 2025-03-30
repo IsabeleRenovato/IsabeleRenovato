@@ -8,7 +8,7 @@ Quero contribuir para o desenvolvimento da indústria tecnológica aplicando meu
 
 ---
 
-## 🚀 **Stack Tecnológica**  
+## 🚀 **Habilidades**  
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -29,7 +29,6 @@ Quero contribuir para o desenvolvimento da indústria tecnológica aplicando meu
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 
 **Outras Ferramentas:**  
 `Visual Studio` `MySQL Workbench` `phpMyAdmin` `XAMPP` `Wamp` `Bizagi` `Astah`  
@@ -52,6 +51,11 @@ Quero contribuir para o desenvolvimento da indústria tecnológica aplicando meu
 ## 📫 **Como me encontrar:**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)]([https://www.linkedin.com/in/seu-perfil/](https://www.linkedin.com/in/isabele-renovato-330707203/))  
+[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=red)](mailto:isabelerenovato@hotmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-000?style=for-the-badge&logo=whatsapp&logoColor=25D366)](https://api.whatsapp.com/send?phone=5519996383370&text=Olá,%20Isabele!)
+
+
+
 
 
 ---
