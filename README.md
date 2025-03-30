@@ -1,4 +1,4 @@
-# Olá! Eu sou a Isabele Renovato, mas você pode me chamar de Isa ✨👋  
+# Olá! Eu sou a Isabele, mas você pode me chamar de Isa ✨👋  
 
 Tenho 22 anos e sou formada em **Sistemas de Informação** pela **FHO | Fundação Hermínio Ometto**.  
 Sou apaixonada por tecnologia e estou sempre buscando novos desafios e aprendizados.  
