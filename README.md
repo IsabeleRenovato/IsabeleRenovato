@@ -1,6 +1,4 @@
-# Olá, eu sou a Isabele Renovato! ✨👋  
-
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=seu-usuario&theme=radical" width="400"/>
+# Olá! Eu sou a Isabele Renovato, mas você pode me chamar de Isa ✨👋  
 
 Tenho 22 anos e sou formada em **Sistemas de Informação** pela **FHO | Fundação Hermínio Ometto**.  
 Sou apaixonada por tecnologia e estou sempre buscando novos desafios e aprendizados.  
@@ -50,7 +48,6 @@ Quero contribuir para o desenvolvimento da indústria tecnológica aplicando meu
 
 ## 📫 **Como me encontrar:**  
 
-<p align="center">
   <a href="https://www.linkedin.com/in/isabele-renovato-330707203/">
     <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8" alt="LinkedIn">
   </a>
@@ -60,7 +57,7 @@ Quero contribuir para o desenvolvimento da indústria tecnológica aplicando meu
   <a href="https://api.whatsapp.com/send?phone=5519996383370&text=Olá,%20Isabele!">
     <img src="https://img.shields.io/badge/WhatsApp-000?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="WhatsApp">
   </a>
-</p>
+
 
 
 
