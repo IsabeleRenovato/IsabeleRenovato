@@ -45,8 +45,8 @@ Quero contribuir para o desenvolvimento da indústria tecnológica aplicando meu
 
 ## 📫 **Como me encontrar:**  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/seu-perfil/)  
-[![Portfólio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=github&logoColor=white)](https://seu-portfolio.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)]([https://www.linkedin.com/in/seu-perfil/](https://www.linkedin.com/in/isabele-renovato-330707203/))  
+
 
 ---
 
